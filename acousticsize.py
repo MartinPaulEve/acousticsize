@@ -1,4 +1,4 @@
-"""Music release generator.
+"""Acoustic Room-Size Generator.
 
 Usage:
   acousticsize.py <height>

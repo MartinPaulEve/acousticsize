@@ -1,4 +1,4 @@
-"""Music release generator.
+# Acoustic Room-Size Generator
 
 Usage:
   acousticsize.py <height>
@@ -14,5 +14,3 @@ Info:
 Calculates Bolt-ratio room sizes based on a height input for a room.
 
 See Alton Everest, Master Handbook of Acoustics, p. 247.
-
-"""
