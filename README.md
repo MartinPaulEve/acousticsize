@@ -13,4 +13,4 @@ Info:
 
 Calculates Bolt-ratio room sizes based on a height input for a room.
 
-See Alton Everest, Master Handbook of Acoustics, p. 247.
+See In Everest, F. Alton, and Ken C Pohlmann, _Master Handbook of Acoustics_ (New York: McGraw-Hill, 2009), p. 247.
